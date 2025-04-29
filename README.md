@@ -1,3 +1,3 @@
-# come-quando-frederik-piange ♥♦♣♠
+# come-quando-frederik-piange ♥♦♣♠
 
 - [Italiano](Italiano.md)

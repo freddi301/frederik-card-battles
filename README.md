@@ -2,3 +2,5 @@
 
 - [Italiano](Italiano.md)
 - [English](English.md)
+
+ALL RIGHTS RESERVED

@@ -1,5 +1,3 @@
-# come-quando-frederik-piange ♥♦♣♠
-
 # Materiale da gioco
 
 Un mazzo di 52 carte del poker quindi jolly esclusi.

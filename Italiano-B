@@ -21,7 +21,7 @@ La partita è composta da 5 turni, ogni turno è composto da 2 fasi:
 
 Nella fase di pesca,
 
-ogni giocatore pesca 5 carte dalla "pila centrale", in senso orario,
+ogni giocatore pesca 5 carte dalla "pila centrale", comincia chi ha la "combinazione di carte" più alta di "carte scoperte", (nel primo turno non è importante chi comincia)
 
 ogni giocatore sceglie una delle 5 "carte pescate" e la mette a faccia in giu davanti a sè (le carte a faccia in giu sono le "carte coperte"),
 
@@ -29,7 +29,7 @@ quando tutti i giocatori hanno scelto messo una "carta coperta", tutti i giocato
 
 il resto delle carte pescate va messo in fondo alla "pila centrale" (riordinandole a piacere tra di loro),
 
-questo si fa in ordine, dal giocatore con la "combinaizone di carte" più alta.
+questo si fa in ordine, dal giocatore con la "combinaizone di carte" più alta di "carte scoperte".
 
 Nella fase di battaglia,
 
@@ -78,6 +78,10 @@ Per scartare si intende mettere le carte in fondo alla "pila centrale" (riordina
 Non puoi bersagliare le carte coperte degli altri giocatori e non le puoi usare per il calcolo del tuo punteggio a meno che non sia indicato diversamente.
 
 Puoi utilizzare le tue carte coperte nella fase di battaglia a meno che non indicato diversamente.
+
+la carta attacco piu bassa scavalca carte guardia più basse.
+la carta attacco piu alta scavalca carte guardia più alte.
+l'asso vale come 13 come carta difesa e attacco.
 
 Le carte dello stesso colore si proteggono dalle azioni di scambio, furto, scarto in ordine numerico, esempi:
 
